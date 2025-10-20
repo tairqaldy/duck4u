@@ -26,9 +26,9 @@ npx tailwindcss init -p
 ```
 
 **Checklist:**
-- [ ] Electron main process running
-- [ ] React app renders in Electron window
-- [ ] TypeScript configured
+- [x] Electron main process running
+- [x] React app renders in Electron window
+- [x] TypeScript configured
 - [ ] Tailwind CSS working
 
 ---
