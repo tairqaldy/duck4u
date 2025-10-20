@@ -10,11 +10,11 @@
 
 ## 📁 Project Documentation
 
-- **[PRD.md](./PRD.md)** - Complete Product Requirements Document (50+ pages)
-- **[QUICK_START.md](./QUICK_START.md)** - 4-week development sprint plan
-- **[TECH_ALTERNATIVES.md](./TECH_ALTERNATIVES.md)** - Technology options & trade-offs
-- **[COST_CALCULATOR.md](./COST_CALCULATOR.md)** - Economics & pricing analysis
-- **[brainstorm.txt](./brainstorm.txt)** - Original idea notes
+- **[PRD.md](./docs/PRD.md)** - Complete Product Requirements Document (50+ pages)
+- **[QUICK_START.md](./docs/QUICK_START.md)** - 4-week development sprint plan
+- **[TECH_ALTERNATIVES.md](./docs/TECH_ALTERNATIVES.md)** - Technology options & trade-offs
+- **[COST_CALCULATOR.md](./docs/COST_CALCULATOR.md)** - Economics & pricing analysis
+- **[brainstorm.txt](./docs/brainstorm.txt)** - Original idea notes
 
 ---
 
