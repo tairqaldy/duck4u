@@ -38,7 +38,7 @@ npx tailwindcss init -p
 
 **Tasks:**
 1. Create frameless window with transparency
-2. Integrate Lottie animation
+2. Integrate Lottie animation (I desided to use my own)
 3. Implement window dragging
 4. Make window always-on-top
 
