@@ -1,0 +1,1 @@
+here will be web application of duck settings/onboarding and all functions.
